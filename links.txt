@@ -9,3 +9,4 @@ https://raw.githubusercontent.com/SunsetMkt/anti-ip-attribution/refs/heads/main/
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Xunlei/Xunlei.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/OneDrive/OneDrive.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/QuantumultX/Huawei/Huawei.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/QuantumultX/ChinaIPsBGP/ChinaIPsBGP.list
